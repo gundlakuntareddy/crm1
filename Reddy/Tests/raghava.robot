@@ -3,7 +3,7 @@ Library    OperatingSystem
 
 
 *** Variables ***
-${MESSAGE}      Hello worlds
+${MESSAGE}      Hello world
 
 *** Test Cases ***
 My Test
